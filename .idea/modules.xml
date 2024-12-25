@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MSCN_4.iml" filepath="$PROJECT_DIR$/.idea/MSCN_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/cart-service/src/main/main.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/cart-service/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/src/main/main1.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/payment-service/src/main/main2.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/payment-service/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/cart-service/target/target.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/cart-service/target/target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/payment-service/target/target1.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/payment-service/target/target1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/payment-service/src/test/test.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/payment-service/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/cart-service/src/test/test1.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/cart-service/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/src/test/test2.iml" filepath="$PROJECT_DIR$/KTTX1/Kafka-SpringBoot-Microservice/src/test/test2.iml" />
+    </modules>
+  </component>
+</project>
